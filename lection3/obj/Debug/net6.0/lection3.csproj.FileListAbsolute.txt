@@ -1,0 +1,15 @@
+C:\sergey\lection3LanguageProgramm\lection3\bin\Debug\net6.0\lection3.exe
+C:\sergey\lection3LanguageProgramm\lection3\bin\Debug\net6.0\lection3.deps.json
+C:\sergey\lection3LanguageProgramm\lection3\bin\Debug\net6.0\lection3.runtimeconfig.json
+C:\sergey\lection3LanguageProgramm\lection3\bin\Debug\net6.0\lection3.dll
+C:\sergey\lection3LanguageProgramm\lection3\bin\Debug\net6.0\lection3.pdb
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.csproj.AssemblyReference.cache
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.GeneratedMSBuildEditorConfig.editorconfig
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.AssemblyInfoInputs.cache
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.AssemblyInfo.cs
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.csproj.CoreCompileInputs.cache
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.dll
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\refint\lection3.dll
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.pdb
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\lection3.genruntimeconfig.cache
+C:\sergey\lection3LanguageProgramm\lection3\obj\Debug\net6.0\ref\lection3.dll
